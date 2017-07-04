@@ -1,0 +1,21 @@
+Question 3: Arrays
+Write a function that flattens an array of nested arrays of unknown size. You are
+not expected to use any module or library to do that.
+
+Example:
+[1, 2, 3, [4, 5, [6, 7, [8, 9], 10]]] returns [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+
+
+Question 4: Eila Real Problem
+If you have an array for products name that are constructed of string with a pattern
+productname_color_size. Write a function that returns distinct list of products specifying
+their variations and each variation count.
+
+Example:
+[nike_red_42, nike_yellow_40, adidas_red_37, nike_red_42, adidas_black_40, nike_red_42, adidas_black_40]
+
+Output:
+Nike:   Red 42 : 3
+        Yellow 40: 1
+Adidas: Red 37: 1
+        Black 40: 2

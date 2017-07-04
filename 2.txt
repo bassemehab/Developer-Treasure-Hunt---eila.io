@@ -1,0 +1,40 @@
+Question 2: Write a function that returns the top 5 most common strings in a the below paragraph starting with the most common to least common. In the comments write the reason why you chose the data structure, the complexity of your solution? (Note: Ignore capital letters) & please keep the code for that, you'll need to send it over later. 
+
+“Yo ho, yo ho, a pirate's life for me
+We pillage, we plunder, we rifle, and loot
+Drink up, me 'earties, yo ho
+We kidnap and ravage and don't give a hoot
+Drink up me 'earties, yo ho
+
+Yo ho, yo ho, a pirate's life for me
+We extort, we pilfer, we filch, and sack
+Drink up, me 'earties, yo ho
+Maraud and embezzle, and even high-jack
+Drink up, me 'earties, yo ho
+
+Yo ho, yo ho, a pirate's life for me
+We kindle and char, inflame and ignite
+Drink up, me 'earties, yo ho
+We burn up the city, we're really a fright
+Drink up, me 'earties, yo ho
+
+We're rascals, scoundrels, villans, and knaves
+Drink up, me 'earties, yo ho
+We're devils and black sheep, really bad eggs
+Drink up, me 'earties, yo ho”
+
+Example:
+Input: 
+We are not what we should be
+We are not what we need to be
+But at least we are not what we used to be
+are not we?
+
+Output:
+we 7
+are 4
+not 4
+what 3
+be 3
+
+Once you're done, type in the number you get from top to bottom (ONLY FOR THE TOP 5 WORDS), to me in Messenger. (In the example, the number would be: 84433).
